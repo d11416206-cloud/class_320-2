@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\2\class_3_20_2\obj\Debug\net10.0\class_3_20_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2\class_3_20_2\obj\Debug\net10.0\class_3_20_2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2\class_3_20_2\obj\Debug\net10.0\class_3_20_2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2\class_3_20_2\obj\Debug\net10.0\class_3_20_2.csproj.CoreCompileInputs.cache
